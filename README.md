@@ -1,5 +1,5 @@
 ### ![Cover](CoverUpdate.png)Hi there 👋
-I'm eager to begin my programming career :computer: to earn more experience and become skillful :punch: in the field.
+I'm eager to boost my programming career :computer: to earn more experience and become skillful :facepunch: in the field
 <!--
 **eramirez2017503/eramirez2017503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
