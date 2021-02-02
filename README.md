@@ -1,4 +1,4 @@
-### ![Cover](Cover.png)Hi there 👋
+### ![Cover](CoverUpdate.png)Hi there 👋
 I'm eager to begin my programming career :computer: to earn more experience and become skillful :punch: in the field. My previous employers describe me as responsible, professional :pushpin:, perseverant, organize :books:, and dedicated to my job :chart_with_upwards_trend:.
 <!--
 **eramirez2017503/eramirez2017503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
